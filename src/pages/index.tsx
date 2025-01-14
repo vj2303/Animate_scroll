@@ -34,14 +34,7 @@ export default function Home() {
             Sorry, I only made this page work on desktop. Perhaps in a future
               we can make this responsive as well 😁
             <br />
-            <a
-              href="https://github.com/danielwuachin/nextjs-animations"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-2 block underline"
-            >
-              Check the source code on GitHub
-            </a>
+
           </p>
         </div>
       </main>
